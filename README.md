@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning ReactJS by building a crypto dashboard.
+🌱 I’m currently learning ReactJS by building a crypto dashboard. The repo for this project can be found <a href="https://github.com/spais/crypto-dashboard.git"><i>HERE</i></a>
 
 <!--
 **spais/spais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
