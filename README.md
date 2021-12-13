@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning ReactJS by building a cryptocurrency dashboard. The repo for this project can be found <a href="https://github.com/spais/crypto-dashboard.git"><i>HERE</i></a>.
+A Graphic Designer who has been dabbling in frontend development since the early early 2000s when everything was built in tables. I’m currently doing a deep dive into ReactJS to better understand its functionality. In doing so I am building a cryptocurrency dashboard. The repo for this project can be found <a href="https://github.com/spais/crypto-dashboard.git"><i>HERE</i></a>.
 
 <!--
 **spais/spais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
