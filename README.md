@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-A Graphic Designer who enjoys dabbling in frontend dev technology since the early early 2000s when everything was built in tables. I’m currently doing a deep dive into ReactJS to better understand its functionality.
+A Graphic Designer who has enjoyed dabbling in frontend web technology since the early early 2000s when everything was built in tables. I’m currently doing a deep dive into ReactJS to better understand its functionality.
 
 <!--
 **spais/spais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
