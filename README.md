@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-A Graphic Designer who has enjoyed dabbling in frontend web technology since the early 2000s when everything was built in tables. I’m currently doing a deep dive into JS for a firm understanding in its functionality.
-
 <!--
 **spais/spais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
